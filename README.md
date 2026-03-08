@@ -24,7 +24,7 @@ and conditional formatting for the IAM team.
 
 ### 3. BAU Team Workload
 Reviewer-level completion rates and bottleneck identification 
-for the program manager.
+for the team lead and BAU team.
 
 ![Reviewer Workload](Workload.png)
 
