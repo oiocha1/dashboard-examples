@@ -14,25 +14,25 @@ This suite replaced that process with automated, real-time reporting.
 High-level completion rates, overdue counts, and risk distribution 
 for program leadership.
 
-![Compliance Overview](Picture1.png)
+![Compliance Overview](Compliance.png)
 
 ### 2. UAR Remediation Tracker
 Operational queue management with urgency banding (7/14/30 days) 
 and conditional formatting for the IAM team.
 
-![Remediation Tracker](Picture3.png)
+![Remediation Tracker](Tracker.png)
 
 ### 3. BAU Team Workload
 Reviewer-level completion rates and bottleneck identification 
 for the program manager.
 
-![Reviewer Workload](Picture5.png)
+![Reviewer Workload](Workload.png)
 
 ## Filtered Views
 
-![Compliance Filtered](Picture2.png)
-![Tracker Filtered](Picture4.png)
-![Workload Filtered](Picture6.png)
+![Compliance Filtered](ComplianceFiltered.png)
+![Tracker Filtered](TrackerFiltered.png)
+![Workload Filtered](WorkloadFiltered.png)
 
 ## Technical Features
 - DAX measures with filter context control using CALCULATE and ALL()\
